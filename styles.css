@@ -1,0 +1,40 @@
+
+    body{
+        background-color: rgba(89, 42, 165, 0.092); 
+
+        form {
+            width: 300px;
+            margin: black;
+        }
+        label,input,textarea,button{
+        display: block;margin: bottom 10px; 
+        width: 100%;
+       
+        }
+    }
+    
+    
+header{
+
+     input, textarea{
+     padding: 4px;
+    font-size: 14px;
+    border: 1px;
+    height: auto;
+}
+  button{
+  padding: 6px;
+  font-size: 14px;
+ background-color: blueviolet;
+color: blueviolet;
+border: none;
+}
+}  
+   
+
+
+
+
+
+
+
